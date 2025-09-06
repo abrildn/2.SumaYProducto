@@ -1,0 +1,14 @@
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\2.SumaYProducto\obj\Debug\net9.0\2.SumaYProducto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\2.SumaYProducto\obj\Debug\net9.0\2.SumaYProducto.AssemblyInfoInputs.cache
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\2.SumaYProducto\obj\Debug\net9.0\2.SumaYProducto.AssemblyInfo.cs
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\2.SumaYProducto\obj\Debug\net9.0\2.SumaYProducto.csproj.CoreCompileInputs.cache
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\2.SumaYProducto\bin\Debug\net9.0\2.SumaYProducto.exe
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\2.SumaYProducto\bin\Debug\net9.0\2.SumaYProducto.deps.json
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\2.SumaYProducto\bin\Debug\net9.0\2.SumaYProducto.runtimeconfig.json
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\2.SumaYProducto\bin\Debug\net9.0\2.SumaYProducto.dll
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\2.SumaYProducto\bin\Debug\net9.0\2.SumaYProducto.pdb
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\2.SumaYProducto\obj\Debug\net9.0\2.SumaYProducto.dll
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\2.SumaYProducto\obj\Debug\net9.0\refint\2.SumaYProducto.dll
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\2.SumaYProducto\obj\Debug\net9.0\2.SumaYProducto.pdb
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\2.SumaYProducto\obj\Debug\net9.0\2.SumaYProducto.genruntimeconfig.cache
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\2.SumaYProducto\obj\Debug\net9.0\ref\2.SumaYProducto.dll
